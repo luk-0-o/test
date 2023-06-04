@@ -1,6 +1,7 @@
 #include<stdio.h>
 using namespace std;
-
+//Bienvenido a este raro programa!
+//Este es mi primer repositorio 0-o
 void nombrar(n) {
 	printf("Hola!, "); printf(n);
 }
